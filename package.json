@@ -1,0 +1,29 @@
+{
+  "name": "demoproject",
+  "version": "1.0.0",
+  "description": "learning website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ratnesh1144/demoproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ratnesh1144/demoproject/issues"
+  },
+  "homepage": "https://github.com/Ratnesh1144/demoproject#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
